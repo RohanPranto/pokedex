@@ -135,7 +135,7 @@ const PokemonSearch = () => {
           </div>
         </div>
         <div className="col-md-6">
-          <div className="card mb-5">
+          <div className="card">
             {evolutionData && (
               <div className="card-body">
                 <h5 className="card-title font-weight-bold">Evolution Chain</h5>
